@@ -1,0 +1,7 @@
+outputs 
+checkpoints
+checkpoints*
+phi_outputs
+student_model
+misc
+model.safetensors
